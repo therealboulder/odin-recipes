@@ -1,3 +1,4 @@
 # odin-recipes
-Web Design Basics
-In this project I will have demonstrated the ability to use the basics of html to create a website full of recipes for various dishes in an organized manner with various elements and images.
+<p>Web Design Basics</p>
+<p>In this project I will have demonstrated the ability to use the basics of html to create a website full of recipes for various dishes in an organized manner with various elements and images.</p>
+<p>This project really helped reinforce everything learned in the html lesson. I was able to create the usual boilerplate html from scratch without needing to check back. I was able to make a recipe website with three different recipes showing how it looked to what ingredients were needed and how to make it. It also led me to learning a little extra about resizing images in html due to some of them being disproptionate compared to the text.
