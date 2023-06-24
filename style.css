@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 h1 {
     text-align: center;
     font-size: 60px;
@@ -14,17 +18,36 @@ h1 {
 
 .ingredients {
     color: rgb(4, 11, 116);
+    border: solid black;
+    background-color: lightpink;
+    display: inline-block;
+    margin: 0%;
 }
 
 .steps {
+    border: solid black;
+    margin-left: 825px;
+    margin-top: -20px;
+    display: inline-block;
     color: rgb(4, 11, 116);
     background-color: lightpink;
+    padding-left: 20px;
 }
 
+#steps {
+    text-align: center;
+    text-decoration: underline;
+}
 #dish {
     color: darkred;
 }
 
 #header {
     font-size: 96px;
+}
+
+#las {
+    height: 500px;
+    width: 500px;
+    margin-left: 675px
 }
