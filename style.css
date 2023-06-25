@@ -15,30 +15,34 @@ h1 {
     padding: 0px;
     background-color: black;
 }
+.sandi {
+    border: 5px solid black;
+
+}
 
 .ingredients {
     color: rgb(4, 11, 116);
     border: solid black;
     background-color: lightpink;
     display: inline-block;
-    margin: 0%;
+    padding-left: 20px;
+    margin: auto;
 }
 
 .steps {
     border: solid black;
-    margin-left: 825px;
-    margin-top: -20px;
     display: inline-block;
     color: rgb(4, 11, 116);
     background-color: lightpink;
-    padding-left: 20px;
+    padding-left: 20px
 }
 
-#steps {
-    text-align: center;
+#steps, 
+#ingredients {
     text-decoration: underline;
 }
-#dish {
+
+#title {
     color: darkred;
 }
 
@@ -46,8 +50,10 @@ h1 {
     font-size: 96px;
 }
 
-#las {
+#dish {
     height: 500px;
     width: 500px;
+    border: 5px solid darkred;
     margin-left: 675px
+
 }
